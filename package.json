@@ -9,6 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pavan5yerra/NODEJS.git"
+    "url": "https://github.com/pavan5yerra/NODEJS.git",
+    "author": "Jane Doe"
   }
 }
